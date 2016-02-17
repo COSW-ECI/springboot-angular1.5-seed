@@ -1,5 +1,6 @@
 package edu.eci.cosw;
 
+import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.test.context.web.WebAppConfiguration;
@@ -13,6 +14,7 @@ public class AngulartestApplicationTests {
 
 	@Test
 	public void contextLoads() {
+            
 	}
 
 }
